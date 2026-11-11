@@ -1,0 +1,17 @@
+venv/
+.venv/
+env/
+ENV/
+
+pycache/
+*.py[cod]
+*$py.class
+
+results/transformer_checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+.idea/
+.vscode/
+.DS_Store
